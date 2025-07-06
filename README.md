@@ -27,3 +27,6 @@ GrowthProAI is a responsive web dashboard that helps businesses generate SEO hea
 
 ---
 
+## Name and Location
+- Business Name : Cake & Co
+- Location : Mumbai
